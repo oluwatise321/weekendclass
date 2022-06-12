@@ -1,0 +1,48 @@
+body {
+  /* background-image: url(./images/photo\ Nature\ background\ \ \ Outoffocus\ Nature\ Photo.jpg); */
+  background-color: white;
+}
+.firstdiv {
+  margin-left: 80%;
+  align-items: center; 
+  /* /* text-align: center;
+  display: block; */
+  justify-content: space-between;
+}
+section {
+  /* background-color: aqua; */
+  margin-top: 75px;
+  text-align: center;
+}
+input {
+  border-radius: 27px;
+  width: 70%;
+  height: 40px;
+  box-shadow: 2px 4px 10px lightgray;
+  border: lightgrey;
+  background-image: url(./images/fifth.png),url(./images/seventh.png);
+  background-position: 99%,left center;
+  background-attachment: fixed,center;
+  background-repeat: no-repeat,no-repeat;
+  
+}
+span {
+  font-size: 70px;
+  font-weight: bold;
+  width: 80px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.thirddiv {
+  padding-top: 20px;
+}
+p {
+  padding-top: 10px;
+}
+.fourthdiv{
+  padding-top: 90px;
+  margin-left: 75%;
+}
+.seconddiv{
+   justify-content: space-between;
+}

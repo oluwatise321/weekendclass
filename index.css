@@ -1,0 +1,59 @@
+p{
+    color:green ;
+}
+img{
+    width: 520px; 
+}
+a{
+    color: black;
+}
+td{
+    background-color: aqua;
+    color: navy;
+}
+th{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blue;
+    color: rgb(243, 243, 62);
+}
+table ,td ,th{
+    border: 2px solid;
+}
+form{
+    background-color: rgb(97, 184, 184);
+}
+span{
+    text-size-adjust:200%;
+}
+.landing{
+    color: brown;
+}
+#firstid{
+    font-weight: bolder;
+    text-shadow: 100px;
+}
+.firstid{
+    font-weight: bolder;
+}
+.pos_1{
+    border-radius: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 250px;
+    left: 200px;
+}
+.lastinp{
+    width: 330px;
+    height: 50px;
+    position: relative;
+    padding-left: 20px;
+}
+.abs{
+    position: absolute;
+    width: 20px;
+    z-index: 2;
+    margin-top: 6px;
+    margin-right: 20px;
+}
+
+

@@ -1,0 +1,20 @@
+.basic{
+    background-color: brown;
+    height: 200px;
+    position: relative;
+}
+.basic_2{
+    background-color: blue;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    bottom: 65%;
+    margin-left: 20%;
+}
+div{
+    background-color: aqua;
+    width: 20%;
+    height: 42px;
+    position: relative;
+    bottom: 30px;
+}

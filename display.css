@@ -1,0 +1,34 @@
+body{
+    background-color: orange;
+}
+p{
+    background-color: aqua;
+}  
+
+/* OR */
+
+/* .first_flex{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: space-between;
+} */
+
+/* FOR GRID */
+
+/* .first_flex{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+} */
+
+/* or */
+
+.first_flex{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 10px;
+grid-row-gap: 14px;
+}
